@@ -3,7 +3,6 @@ import numpy as np
 import dataset
 import os
 import vae
-import plot_utils
 import glob
 
 IMAGE_SIZE = 64
